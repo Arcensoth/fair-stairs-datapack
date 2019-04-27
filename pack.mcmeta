@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": [
+      { "text": "", "color": "gray" },
+      { "text": "Fair Stairs", "color": "green" },
+      "\n",
+      "Increases the number of stairs crafted from blocks.",
+      "\n",
+      { "text": "1.0.0-dev for Minecraft 1.14", "color": "dark_gray" },
+      "\n",
+      "By ",
+      { "text": "Arcensoth", "color": "yellow" }
+    ]
+  }
+}
